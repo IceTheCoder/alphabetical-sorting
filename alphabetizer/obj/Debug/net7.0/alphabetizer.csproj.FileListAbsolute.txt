@@ -1,0 +1,15 @@
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\bin\Debug\net7.0\alphabetizer.exe
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\bin\Debug\net7.0\alphabetizer.deps.json
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\bin\Debug\net7.0\alphabetizer.runtimeconfig.json
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\bin\Debug\net7.0\alphabetizer.dll
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\bin\Debug\net7.0\alphabetizer.pdb
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\alphabetizer.csproj.AssemblyReference.cache
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\alphabetizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\alphabetizer.AssemblyInfoInputs.cache
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\alphabetizer.AssemblyInfo.cs
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\alphabetizer.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\alphabetizer.dll
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\refint\alphabetizer.dll
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\alphabetizer.pdb
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\alphabetizer.genruntimeconfig.cache
+C:\Users\Cristi\Desktop\Learning to Code\C#\alphabetizer\obj\Debug\net7.0\ref\alphabetizer.dll
