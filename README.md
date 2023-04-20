@@ -1,5 +1,7 @@
 # alphabetical-sorting
 
+Order words alphabetically
+
 Blog: https://icethedev2.github.io/
 
 ## Prerequisites
