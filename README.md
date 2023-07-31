@@ -2,8 +2,6 @@
 
 Order words alphabetically
 
-Blog: https://icethedev2.github.io/
-
 ## Prerequisites
 - [.NET Core SDK for Visual Studio Code](https://dotnet.microsoft.com/en-us/) (Make sure to install while VSCode is closed)
 - [Visual Studio Code](https://code.visualstudio.com/) (Make sure to also install the C# extension)
@@ -20,7 +18,7 @@ You can fork the project to play around with it and create a pull request to sub
 ## License
 This repository is licensed under the MIT license. In short, you must include the exact copy of this project's license in your end-user application. Read LICENSE for more information.
 
-If you decide to use portions of my software, it would be appreciated if you include an attribution in the final application, mentioning the name of software and its contributors, as well as the section(s) in which it was used.
+If you decide to use portions of my software, it would be appreciated if you include an attribution in the final application, mentioning the name of the software and its contributors, as well as the section(s) in which it was used.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -31,13 +29,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact
-Project Link: https://github.com/IceTheDev2/alphabetical-sorting/  
+Project Link: https://github.com/IceTheGameDev/alphabetical-sorting/  
 
 Reddit: https://www.reddit.com/user/AnEntirePeach
 
-Youtube: https://www.youtube.com/channel/UCBqVJU4gjeik1RavAsVR6Pg
+Youtube: https://www.youtube.com/@IceTheGameDev
 
-E-mail: icethedev2@gmail.com
+E-mail: icethegamedev@yahoo.com
 
 ## Acknowledgements
 - [Brackeys' series on programming in C# for giving me this idea](https://youtu.be/YiE0oetGMAg), as well as his other videos, which have helped greatly in my journey.
